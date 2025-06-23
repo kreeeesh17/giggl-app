@@ -90,7 +90,7 @@ The video calling feature is implemented using **WebRTC** along with the **Media
 
 The full-stack app is deployed using **Render** for both frontend and backend. WebRTC signaling and Socket communication are optimized for low-latency user interactions.
 
-View the preview [here](https://giggl-app.onrender.com)
+View the preview [here](https://giggl-wr60.onrender.com)
 
 ---
 
