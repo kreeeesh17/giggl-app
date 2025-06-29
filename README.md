@@ -1,4 +1,4 @@
-# 🌐 Connectly – Real-Time Language Exchange Platform
+# 🌐 Giggl – Real-Time Language Exchange Platform
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-brightgreen?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Bundler-Vite-purple?style=for-the-badge&logo=vite)
